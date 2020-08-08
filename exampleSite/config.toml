@@ -1,5 +1,5 @@
 # default config
-baseURL = "https://admiring-davinci-06288f.netlify.app/"
+baseURL = "https://possible-lionzan-site.netlify.app/"
 languageCode = "en-us"
 title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
